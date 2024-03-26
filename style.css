@@ -14,7 +14,21 @@ div {
     margin-top: 30px;
 }
 
-.text {
+.text ,
+.link {
     font-size: 35px;
+    padding: 20px;
 
+}
+
+button {
+    font-size: 35px;
+    background-color: beige;
+    border: solid;
+    border-radius: 10px;
+}
+
+a {
+    color: inherit;
+    text-decoration: dotted;
 }
